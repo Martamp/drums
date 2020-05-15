@@ -1,0 +1,22 @@
+{
+  "name": "drums",
+  "version": "1.0.0",
+  "description": "drums in js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martamp/drums.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "MartaMp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martamp/drums/issues"
+  },
+  "homepage": "https://github.com/Martamp/drums#readme"
+}
